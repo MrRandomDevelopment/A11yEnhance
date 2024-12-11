@@ -1,4 +1,4 @@
-# Accessibility Toolkit Documentation
+# A11yEnhance Documentation
 
 ## Introduction
 The Accessibility Toolkit is a lightweight, customizable widget designed to enhance the accessibility of your website. It provides features such as high contrast mode, text-to-speech (TTS), color blind-friendly adjustments, and more to ensure an inclusive experience for all users.
